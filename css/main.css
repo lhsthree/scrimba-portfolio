@@ -127,6 +127,13 @@ p.section__subtitle--work {
 	text-align: center;
 	}
 
+.portfolio-item-individual p {
+    text-align: center;
+    margin: auto;
+    max-width: 800px;
+    padding: 1em;
+}
+
 
 /* Header*/
 
